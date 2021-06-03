@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three formes of catechismes conteyning the most principall pointes of religion. R.H.</title>
+            <author>Harrison, Robert, d. 1585?</author>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13909</idno><idno type="EEBO-CITATION">99855536</idno>
+  <idno type="VID">176687</idno>
+  <idno type="EEBO-PROQUEST">2240914735</idno>
+  <idno type="STC">STC 12862.5</idno>
+  <idno type="STC">ESTC S120337</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855536e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176687)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 639:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three formes of catechismes conteyning the most principall pointes of religion. R.H.</title>
+                  <author>Harrison, Robert, d. 1585?</author>
+               </titleStmt>
+               <extent>[64] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Schilders],</publisher>
+                  <pubPlace>[Middelburg :</pubPlace>
+                  <date>1583.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.H. = Robert Harrison.</note>
+                  <note>Place of publication and printer's name from STC.</note>
+                  <note>Running title reads: A catechisme.</note>
+                  <note>Formerly STC 12575.(-A1,E2, blank?).</note>
+                  <note>Identified as STC 12575 on UMI microfilm, reel 639.</note>
+                  <note>Signatures: A-D E² (-A1,E2, blank?).</note>
+                  <note>Imperfect; E2, final leaf lacking.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catechisms, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176687:1"/>
+            <pb facs="tcp:176687:1"/>
+            <p>Three formes of Catechismes, conteyning the <hi>most principall pointes of Religion.</hi>
+            </p>
+            <q>
+               <bibl>Deut. 4.10.</bibl>
+               <p>I will cause them to heare my words, that they may learne to feare me all the dayes of their life, And that they may teache their children also.</p>
+            </q>
+            <p>
+               <hi>R. H.</hi>
+            </p>
+            <p>1583.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176687:2"/>
+            <head>To the Reader.</head>
+            <p>THou hast here (Christian Reader) in this litle booke, three Catechismes. The first set<g ref="char:EOLhyphen"/>ting forth the cheife pointes of religion some<g ref="char:EOLhyphen"/>what at large. The seconde gathering the same in to a shorter sūme, for their memories sake, which are not able to committe to harte the longer.</p>
+            <p>The thirde very short, for the alluring of weake and crased memories, as of aged folke, and such like, which at least may soone learne those foure wordes, and the meaning of them, and be brought to saye some thinge of them by their owne knowledge. There be very many Catechismes, thou knowest (good Reader) and in very many of them (in my iudgement) a good &amp; perfect order wanting, for beginning where they shoulde be<g ref="char:EOLhyphen"/>ginne, and endinge where they should ende, and making thinges followe in their due course. I submitte my selfe also to the iudgement of others. Peraduenture manye wyll so thinke of these. Therefore I leaue it free to thee to chuse, vntill thou finde that forme of Catechisme, which thou thinkest to agree most aptlye to thy minde, which thou art best able to followe in instructing thy househoulde. If thou shalt take anye profite by these, giue God the glorie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:176687:2"/>
+            <p>
+               <hi>Question.</hi>
+            </p>
+            <p>
+               <hi>WHo created you, and all thinges which are created?</hi>
+            </p>
+            <p>
+               <hi>Answere.</hi>
+            </p>
+            <p>GOD.</p>
+            <p>
+               <hi>Quest. What is GOD?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> He is a spirit almightie, eternall, and so incomprehensible, that wee are not able to attaine vnto what he is, but as he hath in his worde expressed his owne name and nature.</p>
+            <p>
+               <hi>Quest. What is that his name expres<g ref="char:EOLhyphen"/>sed in his word?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Lorde the Lorde strong, merci<g ref="char:EOLhyphen"/>full and gracious, slowe to anger, and a<g ref="char:EOLhyphen"/>boundaunt in goodnes and trueth, reser<g ref="char:EOLhyphen"/>uing mercie for thousands, forgiuing ini<g ref="char:EOLhyphen"/>quitie, and transgression and sinne, and not making the wicked innocent, visi<g ref="char:EOLhyphen"/>ting the iniquitie of the fathers vpon the children vnto the thirde and fourth gene<g ref="char:EOLhyphen"/>ration.</p>
+            <pb facs="tcp:176687:3"/>
+            <p>
+               <hi>Quest. And what is your duetie, and the duetie of all creatures towardes God our creatour?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> To sett forth his glory. For the Lord made all thinges for his glories sake.</p>
+            <p>
+               <hi>Quest. And how is Gods glorie set forth by his creatures?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> In respect of the Lord, it is sett forth, in that the glorie of his wonderfull wise<g ref="char:EOLhyphen"/>dome and power appeareth, wyll we nyl we, in our creation: In respect of his creatures, his glorie is set forth by their obedience to his will and commaunde<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Quest. How is Gods glorie declared by obeying his commaundement?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Because the Lord to all things which he made appoynted a lawe, as a token and marke of his soueraignetie and Lordshippe ouer them. In keeping the which lawe, they witnesse that God is he whom they serue, and of dueie ought to
+<pb facs="tcp:176687:3"/> obeye, and so giue him the glorie of a Lord and God: and in breaking which lawe, they doo as much as proclayme that they owe him no seruice nor obedi<g ref="char:EOLhyphen"/>ence, and so denie him his due glorie, of beyng Lorde and God, maker and go<g ref="char:EOLhyphen"/>uernour of all.</p>
+            <p>
+               <hi>Quest. Declare some examples as con<g ref="char:EOLhyphen"/>cerning what lawes the Lorde haue giuen to his creatures in the begin<g ref="char:EOLhyphen"/>ning, wherby they myght testifie their obedience, vnto his glorie.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> To the Sunne the Lord gaue a lawe, that it should rule the daye: to the Moone and Starres, that they shoulde rule the nyght: To the Waters, that they should be gathered into their boundes, and not couer the drie lande as they did before: to the Earth, that it shoulde bring forth the hearbe that seedeth seede, &amp; the fruit<g ref="char:EOLhyphen"/>full tree. &amp;c. And to Man God gaue a commaundement, to abstayne from ea<g ref="char:EOLhyphen"/>ting of the fruit of the tree in the middest of the gardē of Paradyse, called the tree of Knowledge of good and euill.</p>
+            <pb facs="tcp:176687:4"/>
+            <p>
+               <hi>Quest. Howe doo the dumme creatures obeye Gods commaundement?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> In that they continue in the state, wherein the Lord placed them, &amp; stand to the order and course, wherevnto he assigned them at the first.</p>
+            <p>
+               <hi>Quest. Haue not man also obeyed Gods commaundemēt from the beginning?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> No. For our first parents Adam and Eue presentlie after the commaunde<g ref="char:EOLhyphen"/>ment giuen, turned quicklie out of the waye. For they hearkning vnto the ser<g ref="char:EOLhyphen"/>pents lying temptation, turned also the trueth of God into a lye. For they bele<g ref="char:EOLhyphen"/>ued not that which the Lord had spoken, but did eate of the forbidden fruit, and therby as it were proclaymed, that they ought vnto the Lord no seruice nor obe<g ref="char:EOLhyphen"/>dience, and so denyed him the glorie of their Lorde and Gouernour, and sepera<g ref="char:EOLhyphen"/>ted them selues quite from him.</p>
+            <p>
+               <hi>Quest. What befelle of this fall of A<g ref="char:EOLhyphen"/>dam?</hi>
+            </p>
+            <pb facs="tcp:176687:4"/>
+            <p>
+               <hi>An.</hi> Most wofull ruine to him selfe, and to all his posteritie. For the Lorde crea<g ref="char:EOLhyphen"/>ting him of this nature, to begett seede, and to increase on the earth, after a ma<g ref="char:EOLhyphen"/>ner wee were all created in him, seyng wee haue all spronge out of his loines. Therefore as he receyued most happie blessings and guiftes of the Lord, both for him selfe, and for his seede, and wee all in him receyued them: so by this his denying the Lorde, he lost all both to him selfe and to his seede, and wee all in him haue lost them. He made himself a seruant to sinne, wherevnto he had o<g ref="char:EOLhyphen"/>beyed, and a slaue vnto Satan whom he had serued. Which miserie is come vpon all his posteritie, as it is written: By the offence of one, sinne came on all men to condemnation. And againe, in Adam wee are all dead. So that he hath left vs none other inheritaunce, but the cursed and bitter root of sinne, which in<g ref="char:EOLhyphen"/>wardly springeth in the grounde of our soules, euen from our birth. And this is called Originall sinne, and for the playner vnderstanding, we may call it sinne which we haue by nature or kind.</p>
+            <pb facs="tcp:176687:5"/>
+            <p>
+               <hi>Quest. What do this naturall corrup<g ref="char:EOLhyphen"/>tion bring forth in vs?</hi>
+            </p>
+            <p>
+               <hi>Aun.</hi> It bringeth foorth in vs conti<g ref="char:EOLhyphen"/>nuall disobedience against the Lord, in breaking his lawes. And it is a verye stronge infecting plague, which infec<g ref="char:EOLhyphen"/>tethe and poysoneth all our thoughtes wordes and deedes, in such sort, as that they be all transgressions against Gods commaundements.</p>
+            <p>
+               <hi>Quest. What commandements be they?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Ten Preceptes ingrauen by the Lord in two tables, for the more plaine expressing to vs of his reuealed wyll, which was also his reuealed wyll from the beginning.</p>
+            <p>
+               <hi>Quest. Let vs heare how you giue the vn<g ref="char:EOLhyphen"/>derstāding of these commandements. And first of these words: I am the Lord thy God, which brought thee out of Egypt, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Lorde vseth meanes hereby to
+<pb facs="tcp:176687:5"/> drawe them to reuerence in hearkning, in proclaiming his Lordshippe and rule ouer thē in these wordes: <hi>I am the Lord,</hi> and to procure them to free, willing, and louing obedience, in testifiyng his free Couenaunt of loue and meere Grace, en<g ref="char:EOLhyphen"/>tred with thē, in these words: <hi>Thy God,</hi> And his benefites which for his Coue<g ref="char:EOLhyphen"/>naunts sake he bestoweth on them, in these wordes: <hi>Which brought thee out of Egypt, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Quest. The first commandement, Thou shalt haue none other Gods but me, vnto what duetie doth it appoint vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Euen to giue to God that whiche to him belongeth: As his due Wor<g ref="char:EOLhyphen"/>shippe or Homage, and honorable Reue<g ref="char:EOLhyphen"/>rence: Feare and Obedience: Loue and Confidence: Calling vpon his name and Thankfulnes. But if we transferre any of these frō him to any other, eyther God or man, wee committ idolatrie.</p>
+            <p>
+               <hi>Quest. Shewe by example. For is it not
+<pb facs="tcp:176687:6"/> lawfull to honour, loue, feare and obey men? Also to make petitions to them, and to thanke them, and so forth?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Who so prostrateth him selfe to the maiestie of any man, yeelding honour and homage, in respect as he is man on<g ref="char:EOLhyphen"/>ly, and not in respect, eyther of some au<g ref="char:EOLhyphen"/>thority or magistracie giuen of the Lord to some, to rule and gouerne as in his steade, or in respect of some grace or gift of God, wherein his glorie appeareth, so that alway the honour may redowne to the Lorde: such an one committeth idolatrie.</p>
+            <p>And they which receyue that homage &amp; honour, and yeelde it not againe into the Lords hands, whose seruaunts they be in their offices &amp; callings, commit ido<g ref="char:EOLhyphen"/>latrie.</p>
+            <p>And who so feare and obey man, saue in the Lorde, as to doo that which God haue forbidden, because of the comman<g ref="char:EOLhyphen"/>dement, &amp; for feare of the strength there<g ref="char:EOLhyphen"/>of, committe idolatrie.</p>
+            <p>And they which loue any thing, as wife,
+<pb facs="tcp:176687:6"/> children, house, lande, mony, foode, ray<g ref="char:EOLhyphen"/>ment and such lyke, otherwise then vnder the Lord, that is, as helpes to their life for a time, and as meanes to sette their minde on the giuer, and not to drawe thē from him, to cause them to desire to liue still on the earth, committe idolatrie.</p>
+            <p>And they which make any sute or petiti<g ref="char:EOLhyphen"/>on vnto man, and do not make sute vnto God first and chefely, and vse that man as a means to serue to gods prouidence, do committe idolatrie.</p>
+            <p>They whiche trust for helpe in man in tyme of neede, as in multitude of souldi<g ref="char:EOLhyphen"/>ours, skill of the Phisicion, or such like, and truste not only in the Lorde, and vse such meanes as he offer: committe ido<g ref="char:EOLhyphen"/>latrie, sinning against this commaunde<g ref="char:EOLhyphen"/>ment: so likewise of the rest.</p>
+            <p>
+               <hi>Quest. Goe to the seconde commaun<g ref="char:EOLhyphen"/>dement: Thou shalt not make to thy selfe any grauen image, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Wee are forbidden herein to wor<g ref="char:EOLhyphen"/>shippe God (though the true God, as we may
+<pb facs="tcp:176687:7"/> wee pretende) vnder any outwarde ly<g ref="char:EOLhyphen"/>kenes, or in any other maner of fashion, then he haue appointed.</p>
+            <p>Therefor they whiche will make an outwarde shape to putte them in re<g ref="char:EOLhyphen"/>membraunce of God, are vaine. For it can not putt them in remembraunce of that it is not lyke, but only it cause thē to remember that fantastical toy, which they haue deuised in their owne brayn, and sett vp for God.</p>
+            <p>They whiche conceyue or imagine of God, according to the reach of any out<g ref="char:EOLhyphen"/>warde sense, as if they thinke him to be like the lyght, or any such thing: sinne against this commaundement.</p>
+            <p>The inuisible thinges of God, that is his eternal power and Godheade, are to be seene in his word and workes: but spiritually to be beholden.</p>
+            <p>They which in the worshippe of God bringe in any representations or cere<g ref="char:EOLhyphen"/>monies, to signifie any thing, the Lord in his word not beyng authour of them: as whitnes in a garment to signifie in<g ref="char:EOLhyphen"/>nocencie,
+<pb facs="tcp:176687:7"/> or suche like: sinne against this commandement.</p>
+            <p>They which in the worshippe of God, whiche is free to all, make them selues bond, and worshippe after the precepts of men, by limitation and course, and not by quicknes of the spirit, whiche stirre vp our minds vnto God accor<g ref="char:EOLhyphen"/>ding to our present necessitie: sinne a<g ref="char:EOLhyphen"/>gainst this commandement.</p>
+            <p>They which submitte them selues in the worshipp of God in his Church, to any such, as to whom he by his worde haue not giuen charge ouer his house<g ref="char:EOLhyphen"/>houlde to guyde and teache them, and therfore can not guyde nor teach them: sinne against this commaundement.</p>
+            <p>All these and many more committing other thinges, doo imagine of God o<g ref="char:EOLhyphen"/>therwyse then he is, &amp; do sett vp a false image and representation of him.</p>
+            <p>
+               <hi>Quest. Proceede to the thirde comman<g ref="char:EOLhyphen"/>dement: Thou shalt not take the name of the Lord thy God in vaine, &amp;c.</hi>
+            </p>
+            <pb facs="tcp:176687:8"/>
+            <p>
+               <hi>An.</hi> Wee are commaunded here to vse the name of God with reuerence and so<g ref="char:EOLhyphen"/>brenes, whither wee haue occasion to meditate or speake of him, or his word wherin he haue declared his name most manifestly, or his workes wherein he haue also ingrauen his name: for as much as the glorie of his wisdome and power, whereby he is and maye be knowne, doth shine in them.</p>
+            <p>Therefore they which name him when they minde him not, as in any sodaine chaunce of mirth, or at any thing hap<g ref="char:EOLhyphen"/>pening somewhat straungely: as if one shoulde saye in such a case <hi>(Lord God is that true)</hi> or such like: they offende a<g ref="char:EOLhyphen"/>gainst this commandement.</p>
+            <p>They whiche vse the name of God in cursings, also in inchauntings: sinne a<g ref="char:EOLhyphen"/>gainst this commaundement.</p>
+            <p>They whiche sweare by any thinge sa<g ref="char:EOLhyphen"/>uing God alone, as thoughe any thing in the world were a searcher of the hart besides God: sinne against this com<g ref="char:EOLhyphen"/>mandement, &amp; make that thing an idoll.</p>
+            <pb facs="tcp:176687:8"/>
+            <p>They which sweare by the name of God, without high reuerence and homage yeeldinge, in a solemne and necessarie cause, eyther when the trueth can not o<g ref="char:EOLhyphen"/>therwise be manifestlie founde out, in respect of the time past: or when wee make a solemne vowe or promise to do anie thing, for the time to come: when the parties to whom wee promise, can not otherwise be assured of our certain care to performe y<seg rend="sup">e</seg> thing. They which sweare otherwise, sinne against this commaundement.</p>
+            <p>They which turne ouer a trifling matter to lott, calling God from heauen to de<g ref="char:EOLhyphen"/>termine that, which otherwise most ea<g ref="char:EOLhyphen"/>silie might be determined, sinn against this commaundement. For chaunce there is none, though peraduenture the worde may be vsed not vnlawfully, to note those things whiche come to passe to vs vnlooked for. But in respect of y<seg rend="sup">e</seg> Lorde, there is no chaunce, but by his prouidence euerie Sparrowe lighteth on the ground: much more by the same prouidence the issue of euery Lotte is
+<pb facs="tcp:176687:9"/> directed.</p>
+            <p>They whiche hearing the worde of God, haue their minds otherwise occupied: sinne against this commaundement.</p>
+            <p>And they also whiche in their readinge do not meditate duely.</p>
+            <p>They whiche presente them selues at a seruice of God, which they vnderstand not: or if they vnderstād it, it agreth not at all to their state, and they are not edi<g ref="char:EOLhyphen"/>fied, and yet they stil frequent the same: sinne against this commaundement.</p>
+            <p>They whiche singe Psalmes or Himnes of the scripture to passe the time in the middest of their vaine mirth, &amp; eyther vnderstande them not, or applie them not to their owne affections, neither meditate soberly on them: sinne against this commaundement.</p>
+            <p>They whiche idlelye doo beholde Gods workes, and passe ouer them as things of course, not espying nor meditating Gods glorie which shineth in them: as it is written: The heauens declare the glorie of God, and the firmament shew<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:176687:9"/> the workes of his handes. &amp;c: they sinne against this commaundement, and so likewise of the rest.</p>
+            <p>
+               <hi>Quest. Declare the summe of the fourth: Remember that thou keepe holye the Saboth day.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The seuenth day is commaunded to be kept holy vnto the Lorde, in spiritual exercises, and meditating of the workes of God, which he made excellent &amp; won<g ref="char:EOLhyphen"/>derful, and rested the seuenth day, which hee hath commaunded to be kept apart, to celebrate the remembrāce of his rest, as also to put vs in minde, that we are to rest from our owne workes whiche are euill, that we may do the workes which God will and commaunde. And vnto the Iewes a verie streight obseruing of the day was giuen in charge, because it was to them a shadowing of the heauen<g ref="char:EOLhyphen"/>lie rest. Vnto vs Christ Iesus hath sett an ende to all shadowes, in whom we be<g ref="char:EOLhyphen"/>holde our rest and blessednes. Howbeit the seuenth day being sanctifyed and put apart of the Lorde from the beginning,
+<pb facs="tcp:176687:10"/> to other vse then the rest, we are to holde a seuenth day, to cease from our outward labours, which should hinder vs from ha<g ref="char:EOLhyphen"/>uing both our soules and bodies free vn<g ref="char:EOLhyphen"/>to the whole attendance vpon the diuine worshippe of God.</p>
+            <p>
+               <hi>Quest. The fifth commandement what doeth it appoint vnto vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> All dueties which we owe vnto anie of those, whome God haue placed vnder him to gouerne vs, whither they be Pa<g ref="char:EOLhyphen"/>rentes, Magistrates, Church guydes, or whosoeuer. And the Lorde haue compre<g ref="char:EOLhyphen"/>hended them vnder one kinde, wherevn<g ref="char:EOLhyphen"/>to the verie bonde of naturall affection, if anie sparke be in vs, binde vs vnto.</p>
+            <p>Therfore we must giue honour to whom honor belongeth: Feare, to whom feare apperteyneth: Tribute, to whom tribute is due, and all in the Lorde, and for him. As it is written concerning submission to Magistrates: Lette euerie soule bee subiect to the higher powers. &amp;c. Con<g ref="char:EOLhyphen"/>cerninge Church guydes it is written: Obeye them that haue the ouersight of
+<pb facs="tcp:176687:10"/> you, and submitte your selues: for they watche for your soules. Concerning pa<g ref="char:EOLhyphen"/>rentes it is written: Children obey your Parentes in the Lord, for it is right. &amp;c. Concerning Maisters, Seruauntes be subiect to your Maisters with all feare.</p>
+            <p>Therefore they sinne against this cōman<g ref="char:EOLhyphen"/>dement, whiche are stubburne against such, and are aunsweres againe, or goe powting and lowring about their mes<g ref="char:EOLhyphen"/>sage, doing eye seruice, or constreyned.</p>
+            <p>Also, they which by anie meanes increase their priuate wealth and gayne with the hinderance of the cōmon wealth, though they can by some shift stoppe the mouth of a good lawe: yet they sinne against this commaundement in the ciuile Ma<g ref="char:EOLhyphen"/>gistrates behalfe, who is appointed for the mayntenaunce of that common wealth.</p>
+            <p>Also, they whiche being admonished of a sinne, by anie brother in the churche, or anie Church guide, eyther wil not heare him, or if they seeme to heare, yet they nourishe still their sinne within them more secretlie, sinne against this com<g ref="char:EOLhyphen"/>maundement,
+<pb facs="tcp:176687:11"/> and so likewise of others. For verie many particulers might be gathered in euerie commaundement. But I mention a fewe of the plainest to auoide tediousnes.</p>
+            <p>
+               <hi>Quest. Declare the meaning of the sixt commaundement: Thou shalt not kill.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Wee are forbidden all violence, and all harme conceyuing or doyng, against the safetie of the life of any man.</p>
+            <p>Therfore they which hate any man though he be their enemie: sinne against this commaundement. For it is written: Loue your enemies. Doo good to them that hate you. But wee whom we hate, wee woulde haue made out of the waye. Therfore hatred is the cole whiche kin<g ref="char:EOLhyphen"/>dleth the fire of slaughter. Where it is saide: Do I not hate them with a perfect hatred, which hate thee? &amp;c: In deede we may hate the Lords enemies as sinners, and be angrie against them with ielousy ouer Gods glorie: but as liuing men, we maye not hate them, nor doo any thinge which shoulde tende to the shortning of
+<pb facs="tcp:176687:11"/> their liues: but committe that to God, &amp; to those to whō he haue cōmitted y<seg rend="sup">e</seg> sword.</p>
+            <p>They which giue checke for check, &amp; taunt for taunte: sinne against this commaun<g ref="char:EOLhyphen"/>dement.</p>
+            <p>They which are angrie vnaduisedly, much more they which brust out into any re<g ref="char:EOLhyphen"/>prochful words: sinne against this com<g ref="char:EOLhyphen"/>maundement.</p>
+            <p>They which for want of loue, withdrawe their helping hande frō the safetie of the life of an other, when as they may stande in stead to do good therein: sinne against this commaundement.</p>
+            <p>
+               <hi>Quest. Proceede to declare the seuenth: Thou shalt not committe adulterie.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Wee are forbidden whoredom, and all filthines of lust, vnclennes and vn<g ref="char:EOLhyphen"/>chastnes, which tendeth therevnto.</p>
+            <p>Therefor they which look on any with the eye of concupiscence, whō they ought not so to looke vpon: sinne against this com<g ref="char:EOLhyphen"/>mandement, &amp; in hart haue committed adulterie, as Christ haue spoken.</p>
+            <p>They which vse vnchaste words: also they
+<pb facs="tcp:176687:12"/> whiche decke them selues delicatelie, or gesture with the body pleasantlie, there<g ref="char:EOLhyphen"/>by stirring vp the lust of others, decla<g ref="char:EOLhyphen"/>ring their vnchast, &amp; vnmortified minds: sinne against this commaundement.</p>
+            <p>Also they which pamper their bodies deliciously, which thing increaseth lust: sinne against this commaundement.</p>
+            <p>Also they, whiche though they vse no straunge fleshe, but conteyne themselues within the boundes of matrimonie, and yet bridle not their insaciable lust, but vse that thing for a prouocation to sinne, and a meane of inflaming thereof, which was giuen of God for a remedie against sinne, and a meane of quenshing thereof: sinne against this commandement. And so likewise of others.</p>
+            <p>
+               <hi>Quest. Proceede vnto the eyght com<g ref="char:EOLhyphen"/>maundement: Thou shalt not steale.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Herein we be for bidden to hinder the goods of our neyghbour, but are com<g ref="char:EOLhyphen"/>maunded to be carefull, that euerie man haue his owne iustlie and truelie, as farr as in vs lie.</p>
+            <pb facs="tcp:176687:12"/>
+            <p>Therefore besides the common theeues &amp; robbers, they also whiche byte with the sharpe teeth of Vsurie &amp; extorsion, sinne more grieuouslie against this comman<g ref="char:EOLhyphen"/>dement.</p>
+            <p>They which seeke altogither to gather to them selues, and are loth that other poo<g ref="char:EOLhyphen"/>rer and yonger then they, should haue a<g ref="char:EOLhyphen"/>nie dealings to thriue by them: sinne a<g ref="char:EOLhyphen"/>gainst this commaundement.</p>
+            <p>They whiche keepe backe the hyrelinges wages, yeares, monethes or dayes, yea but one night, when he needeth it: sinne against this commaundement.</p>
+            <p>They which take a mans cause in hande, &amp; delaye the same one day longer then by necessitie: sinne against this commaun<g ref="char:EOLhyphen"/>dement.</p>
+            <p>They which haue inough to liue vpon, and great ouerplus, and playe not the good stewards to dispose where need is: sinne against this commaundement.</p>
+            <p>They whiche abuse the necessitie of the Buyer, to inhaunce the price of any thing: sinne against this commaunde<g ref="char:EOLhyphen"/>ment.</p>
+            <pb facs="tcp:176687:13"/>
+            <p>Also, they which abuse the necessitie of the seller, to bring the price vnder foote, and cause the poore to sell their goods, espe<g ref="char:EOLhyphen"/>ciallie those which they sell before hand, euen halfe for nought: sinne grieuouslie against this commaundement. And this is a gulfe which swaloweth vp manie a man in a yeare with his poore wife and children.</p>
+            <p>They which are idle &amp; labor in no calling, eating the bread which is due to thē only that labor; sin against this cōmandement</p>
+            <p>They which do eye seruice, &amp; behinde the backes of thē whom they serue, diminish of their work through slouthfulnes, &amp; yet receiue their wages: sinne against this cōmaundement, &amp; so likewise of the rest.</p>
+            <p>
+               <hi>Que. Go forwarde to expresse the mea<g ref="char:EOLhyphen"/>ning of the ninth cōmandement: Thou shalt not bee a false witnes against thy neighbour.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Wee be forbidden by any meanes to hinder our neighbours good name, as by lying, slaundering, backebyting, surmi<g ref="char:EOLhyphen"/>sing, or anie such way. But we are com<g ref="char:EOLhyphen"/>maunded
+<pb facs="tcp:176687:13"/> to defende, mainteyne, and fur<g ref="char:EOLhyphen"/>ther the same, as farre as we are able in trueth and right.</p>
+            <p>Therefore they which haue pleasure to sitt descanting of other mens faultes, when they ought to be otherwise occupied, without care to moue them selues or any they talke with, to auoyde the like:</p>
+            <p>Also they which disclose those faultes whi<g ref="char:EOLhyphen"/>che are to bee couered, or to be touched first by due priuate admonition:</p>
+            <p>Also they which make y<seg rend="sup">e</seg> fault seeme grea<g ref="char:EOLhyphen"/>ter then it is, eyther for euill will, or be<g ref="char:EOLhyphen"/>cause they thinke that another mans dis<g ref="char:EOLhyphen"/>prayse is partlie their prayse, or else doo carpe at other mens gifts to lessen their estimation, thinking that so much is ad<g ref="char:EOLhyphen"/>ded to their owne: these &amp; such like sinne against this commaundement.</p>
+            <p>
+               <hi>Question. The tenth commaundement what doeth it enioyne to vs?</hi>
+            </p>
+            <p>
+               <hi>Aun.</hi> To absteyne from all wandring de<g ref="char:EOLhyphen"/>sires, wherby we long after, &amp; fausie those
+<pb facs="tcp:176687:14"/> things which God haue allotted vnto o<g ref="char:EOLhyphen"/>thers, and not to vs, though we haue no purpose nor consent of minde, vnlawful<g ref="char:EOLhyphen"/>ly to come by the same, as in the other commaundements. And wee are com<g ref="char:EOLhyphen"/>manded louinglie to couet and desire our neyghbours profite and welfare euen as our owne.</p>
+            <p>Therefore they which seeyng an house or peece of grounde, or such like thinge, of their neyghbours next adioyninge to theirs, and their mouthe water thereat, and they think it were excellentlie com<g ref="char:EOLhyphen"/>modious, if they hadde it, although they would not haue it without payinge the price, yet offende they against this com<g ref="char:EOLhyphen"/>mandement. For the Lord haue appoin<g ref="char:EOLhyphen"/>ted it to their neighbour, to whom often<g ref="char:EOLhyphen"/>times it serueth for necessitie in his cal<g ref="char:EOLhyphen"/>ling, when it shoulde not serue the other but vnto superfluitie. And so likewise of others coueting any thing after this ma<g ref="char:EOLhyphen"/>ner.</p>
+            <p>And this is the Lawe of God, the perfect rule of his righteousnes, teaching vs to leade an vpright lyfe, and requireth that
+<pb facs="tcp:176687:14"/> we be spirituallie endued with entiere loue towardes God, &amp; our neighbour, which is the accomplishment of the law.</p>
+            <p>
+               <hi>Que. Is it possible that this Law should of vs be fulfilled?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> No. For the Lawe is spirituall, but we are carnal, solde vnder sinne, &amp; there<g ref="char:EOLhyphen"/>fore too weake to attayne to this perfec<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Que. Why then haue the Lord giuen vs a Law, and taketh punishment for the breache therof, which we are not able to fulfill?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Because the Lorde being perfectlie righteous, could not giue a lawe of anie other nature or kinde. Which lawe in it selfe is possible to be fulfilled, for Christ in the nature of man, haue fulfilled it.</p>
+            <p>But we are so infected with sinne, that as sicke stomaches cann not sauour the moste sauourie meate, and the bleared eyes can not beholde the Sunne: so can not wee brooke the Lawe of GOD,
+<pb facs="tcp:176687:15"/> the stomaches of our Soules being al<g ref="char:EOLhyphen"/>wayes sore sicke of this disease of sinne, and the eyes of our soules being dazeled therewith.</p>
+            <p>
+               <hi>Quest. Is there not then life to bee had by the Lawe?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Yes, lyfe is promised to the perfor<g ref="char:EOLhyphen"/>mers thereof, as it is written: Do this, and thou shalt liue. But because of this mine infirmitie: that commaundement which was ordeyned vnto lyfe, is founde to be vnto me vnto death.</p>
+            <p>
+               <hi>Quest. What profite then chieflie doo we reape by the Lawe?</hi>
+            </p>
+            <p>
+               <hi>Auns.</hi> This, that we being too blinde in seeing our owne sinnes, and too fauou<g ref="char:EOLhyphen"/>rable in iudging them, shoulde haue this lawe, as a glasse therein to espye the multitude, grossenesse, and owghlines of them: And as a right squire whiche shoulde sette more plainelie before oure
+<pb facs="tcp:176687:15"/> eyes, the crookednes of our pathes, to the ende wee should bee driuen to shame and confusion in our owne selues: and also that we shoulde haue this law (be<g ref="char:EOLhyphen"/>side a streight examiner and searcher of our wayes) a sharpe condemner also for our so manifolde and euident transgres<g ref="char:EOLhyphen"/>sions therof, therby to driue vs to shame and feare of woe: that thus wee beinge bounde with the chaynes of miserie, might of force be driuen more careful<g ref="char:EOLhyphen"/>lie to seeke to the fountayne &amp; welspring of mercie.</p>
+            <p>
+               <hi>Quest. If there be nothing to bee loo<g ref="char:EOLhyphen"/>ked for of vs at the hands of the Law but death and condemnation: howe is it that such things are spoken of the Lawe: as that it is perfect, conuertinge the soule, and reioysing the heart, gi<g ref="char:EOLhyphen"/>uing light to the eyes. &amp;c. Also, Thy Lawe is my delight, Giue mee vnder<g ref="char:EOLhyphen"/>standinge, and I will keepe it with my whole hearte. Also, Blessed is the man, that hath not walked in the counsayl of the wicked, nor stand. &amp;c.
+<pb facs="tcp:176687:16"/> But his delight is in the Lawe of the Lorde, and in that Lawe hee doeth me<g ref="char:EOLhyphen"/>ditate day and night.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> In those places of Scripture, these wordes, Law, Testimonie, Word, Sta<g ref="char:EOLhyphen"/>tute, and such like, are takē for the whole reuealed will of God, cōcerning his co<g ref="char:EOLhyphen"/>uenaunt with his Saintes: And so not onelie for the commaundement, whiche bindeth and bringeth wrath: but there<g ref="char:EOLhyphen"/>with for the attonement also by grace &amp; mercie in the Lords annoynted, whiche was a Lambe slaine frō the beginning.</p>
+            <p>Of which welspring of grace &amp; life, our Fathers haue drunck, thogh by shadow<g ref="char:EOLhyphen"/>ing sacrifices ledde therevnto. But wee here speake onely of the lawe of the bare cōmaundements, which setteth our mis<g ref="char:EOLhyphen"/>deedes in order before vs.</p>
+            <p>
+               <hi>Quest. Are we then all transgressours of the Lawe of God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Yea all: As it is writtē, All haue sin<g ref="char:EOLhyphen"/>ned, &amp; are depriued of the glorie of god. Also, There is none righteous, no not
+<pb facs="tcp:176687:16"/> one, There is none that vnderstandeth: there is none y<seg rend="sup">t</seg> seeketh God. Also, all the imaginations and thoughtes of mans heart are only euill cōtinuallie. Yea and this our transgression is more increased by the giuing of the Lawe, as it is writ<g ref="char:EOLhyphen"/>ten: The Lawe entred therevppon, that sinne might abound. For although there haue bin all one and the same Law from Adam to Moses, which haue ben since: yet nowe the preceptes being engrauen before our eyes, euen as lines drawne out for a writer to direct his writing by, we are the more in sinne, and the more manifestlie conuict therof, for not draw<g ref="char:EOLhyphen"/>ing as it were, the writing of our life &amp; conuersation by those streight lines of Gods lawe.</p>
+            <p>
+               <hi>Quest. Who accuse vs of this sinne and transgression before the tribunal seate of God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Euen this lawe, which draweth out the handwriting of our enditement a<g ref="char:EOLhyphen"/>gainst vs.</p>
+            <pb facs="tcp:176687:17"/>
+            <p>
+               <hi>Quest. Who is the witnes for the confir<g ref="char:EOLhyphen"/>ming the same?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Euen our owne conscience is a thou<g ref="char:EOLhyphen"/>sande witnesses, when the Lorde call it to accompts.</p>
+            <p>
+               <hi>Quest. Who is iudge?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Lorde God a ieleous God, into whose hands it is feareful to fall. Whose Iustice as his Shreife fettreth vs with deadly chaines, and is readie to hale vs vnto execution.</p>
+            <p>
+               <hi>Quest. Vnto the execution of what iud<g ref="char:EOLhyphen"/>gement?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Euen of death euerlasting, which is y<seg rend="sup">e</seg> reward of sinne, and the effect of Gods curse, which is vttred against the brea<g ref="char:EOLhyphen"/>kers of the law, as it is written: Cursed is euery one whiche abideth not in all these commaundements.</p>
+            <p>
+               <hi>Quest. This is great woo and miserie. Shall we thus die without remedie.?</hi>
+            </p>
+            <pb facs="tcp:176687:17"/>
+            <p>
+               <hi>An.</hi> This is the state of the worlde, and thus are y<seg rend="sup">e</seg> innumerable multitude slaine by Gods auenging iustice.</p>
+            <p>
+               <hi>Que. Is no pardon offred them by Gods good grace and mercie?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Yes: If they would fall downe, hum<g ref="char:EOLhyphen"/>bling their hartes, and turninge to the Lord, abhorring those sinnes which haue procured his wrath.</p>
+            <p>
+               <hi>Quest. Why doo they not so, especiallie in this distresse?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> They adde sinne to sinne, treasuring vp wrath so long that by gods iust iudge<g ref="char:EOLunhyphen"/>ment, their hartes are still harde and can not repent. Also they are absent from the Lords barre, and are sleping in the mid<g ref="char:EOLhyphen"/>dest of their pleasures, when their iudge<g ref="char:EOLhyphen"/>ment sleepeth not, but proceedeth thus against them. And they may be sayde to be absent, because hauing no touche nor remorse of conscience, they can not bee sayde to heare eyther accusation of the Lawe, or sentence of the iudge. And whē the shrieffe Gods iustice calleth to ven<g ref="char:EOLhyphen"/>geance,
+<pb facs="tcp:176687:18"/> they thinke he dallie, and are brought in minde as Adam &amp; Eue were by the Tempter, that they shoulde not die. Such vaine hope haue they, vntyl the sworde of death giue them an euer<g ref="char:EOLhyphen"/>lasting wounde.</p>
+            <p>
+               <hi>Quest. Who are they then, which escape this deadlie dinte of dreadful iudge<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> A remnant saued by the Election of grace, of them selues no more worthie then the rest: but by the Lorde called of purpose, and redemed from out of the worlde, and the abominations of other sinners.</p>
+            <p>
+               <hi>Quest. And how doo they escape?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> They beinge present before Gods iudgement barre, heare and see the pro<g ref="char:EOLhyphen"/>ceeding of all thinges, by the inwarde feeling of conscience, which is giuen thē by Gods Spirit, as the first steppe and entraunce vnto good. Nowe they behol<g ref="char:EOLhyphen"/>ding nothing, but euen the vndergoing of this terrible iudgement: they fall
+<pb facs="tcp:176687:18"/> downe flatt before the maiestie of the iudge. They confesse their sinnes, &amp; hide thē not. They are ashamed of thē where<g ref="char:EOLhyphen"/>in they hadd pleasure before, &amp; are asha<g ref="char:EOLhyphen"/>med of them selues. They hate &amp; abhorre them, for that they haue brought thē vn<g ref="char:EOLhyphen"/>to this woo. They are angrie with them selues for angring their God, whose frowning countenance they can not now beholde. They thinke themselues most vile &amp; detestable, yea the miserablest of all creatures vnder heauen. Death is be<g ref="char:EOLhyphen"/>fore their eyes, &amp; they are holden with y<seg rend="sup">e</seg> bands thereof. They are plunged in the pitt, &amp; gaspe for breath. They burne in y<seg rend="sup">e</seg> fire of Gods indignation, hauing hell in their conscience, and darcknes on euerie side. Thus they sorowe with intire pur<g ref="char:EOLhyphen"/>pose, if they may escape, to leade a newe life. This is the paterne of trew repen<g ref="char:EOLhyphen"/>tance, and this is dying vnto sinne.</p>
+            <p>
+               <hi>Quest. What release then vpon this?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Christ Iesus sendeth to thē his Spirit y<seg rend="sup">e</seg> comforter, to cheare their soules with
+<pb facs="tcp:176687:19"/> these glad tydings: Come to mee ye that labour and are loden, and I will refreshe you. I haue appeased my Fathers wrath. I haue borne the burthen of your sinnes. I haue nayled your inditement to my crosse. Beholde I haue sent your pardon. Then dreadfull iustice giueth place, and tender mercie take them by the hande, to plucke them out of the pitt. Thus the dayspring from an highe doo visite them, giuing light to them sitting in darkenesse, &amp; in the shadowe of death. Then are the poore penitent sinners rai<g ref="char:EOLhyphen"/>sed from death to life, from hell to hea<g ref="char:EOLhyphen"/>uen, hearing the spirite foūding in their eares of their soules, and readinge their pardon thus: Blessed are they whose vn<g ref="char:EOLhyphen"/>rightuousnes is forgiuē, and whose sinne is couered. Blessed is the man to whom the Lord imputeth no sinne. This rising from death and quickening by fayth in Christ vnto a newe lyfe, after wee were dead through sinnes, is the second birth.</p>
+            <p>
+               <hi>Quest. By what meanes hath Christe ap<g ref="char:EOLhyphen"/>peased his Fathers wrath, and raunso<g ref="char:EOLhyphen"/>med vs?</hi>
+            </p>
+            <pb facs="tcp:176687:19"/>
+            <p>
+               <hi>An.</hi> By suffering death, euen the death of the crosse, &amp; the torment of hell in soule and conscience. So he bare the burthen for vs, which should haue rested vpon vs, and woulde haue pressed vs downe for e<g ref="char:EOLhyphen"/>uer. His blood was a purging sacrifice of a sweet smelling sauour to God, wher<g ref="char:EOLhyphen"/>in he smelled the sauour of peace.</p>
+            <p>
+               <hi>Quest. We being thus ransomed and re<g ref="char:EOLhyphen"/>demed from the power of hell and Sa<g ref="char:EOLhyphen"/>tans bands: in what name or title can wee looke for the ioyes of the heauen<g ref="char:EOLhyphen"/>ly life, seing we can yet bring no desert vnto God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Christ hath also fulfilled the Law, and wrought perfect righteousnes, which he imputeth to vs, wherewith he clothing vs being naked in our selues, he presen<g ref="char:EOLhyphen"/>teth vs to his father, and maketh vs par<g ref="char:EOLhyphen"/>takers &amp; felloheires of glorie with him selfe in heauenly places. He also hauing receyued abundaunce of the spirit with<g ref="char:EOLhyphen"/>out measure, powreth vpon vs also of y<seg rend="sup">e</seg> same spirit, as it is written: Of his ful<g ref="char:EOLhyphen"/>nes wee haue all receyued, and grace for
+<pb facs="tcp:176687:20"/> grace, whereby he Santifieth vs to the leading of a nue and holie life, whiche may be cōformed to y<seg rend="sup">e</seg> image of his life.</p>
+            <p>
+               <hi>Quest. What natures be in Christ?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The perfect nature of God, and the perfect nature of Man.</p>
+            <p>
+               <hi>Quest. Why was it necessarie that our Redemer shoulde be God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> That he myght haue full power to sustaine his Manhoode to the ouercom<g ref="char:EOLhyphen"/>ming of death, that he myght not be hol<g ref="char:EOLhyphen"/>den with the bands thereof: which thing passeth mans strength.</p>
+            <p>
+               <hi>Qu. Why was it necessarie that he sholde be perfect man?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Because Man had trespassed, Man al<g ref="char:EOLhyphen"/>so was to answere the trespasse, as the iustice of God required.</p>
+            <p>
+               <hi>Qu. How coulde it stand with the Iustice of God to pardon our sinnes, whereof he spake: The day that thou doest so, thou shalt die the death?</hi>
+            </p>
+            <pb facs="tcp:176687:20"/>
+            <p>
+               <hi>An.</hi> The Iustice of God remaineth vndi<g ref="char:EOLhyphen"/>mimished, in that our sinnes were puni<g ref="char:EOLhyphen"/>shed by death and bloodshedding in him, which bare our iniquitie. His mercie al<g ref="char:EOLhyphen"/>so taketh place, and reioyseth againste iudgemēt, in y<seg rend="sup">t</seg> they are pardoned to vs, and the debt paied by a faithful suertie.</p>
+            <p>
+               <hi>Quest. How do we receyue Christ Iesus, &amp; applie him vnto vs with his merites, and in him all promises and Amen?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> By Faith.</p>
+            <p>
+               <hi>Quest. What is Faith?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> It is an especial gift of God giuen by inspiratiō, but not without other means. And may well be called the hande of our soule, which we reache foorth to lay hold of all good thinges, which the Lorde doo offer to vs in his worde.</p>
+            <p>
+               <hi>Quest. Howe then and by what meanes is it wrought in vs, or inspired into vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> God giueth it, or worketh it in oure hartes by his spirit, at the outward hea<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:176687:21"/> of the worde taught by any to whō he haue giuen anie lawfull charge or cal<g ref="char:EOLhyphen"/>ling to teache vs y<seg rend="sup">e</seg> same: though in some case it be done but by a priuate brother, onelie by the charge of charitie, instruc<g ref="char:EOLhyphen"/>ting them whom hee finde to haue neede and to be worthie, as did the scattered Disciples of the Churche in Ierusalem, and prospered in begetting faith.</p>
+            <p>
+               <hi>Quest. By what meanes doeth the Lord assure our faith of his gracious pro<g ref="char:EOLhyphen"/>mises?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> By the same meanes, euen his word, wherein they are conteyned, and from whence they flowe vnto vs, and his spi<g ref="char:EOLhyphen"/>rit quickening vs by the same, &amp; sealing it vnto vs by giuing liuely feeling of the power thereof.</p>
+            <p>
+               <hi>Quest. Hath not the Lorde of bountie yet added further assurāce by outward meane, sfor the help of our weak faith?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Yes: He hath also left vs two Sacra<g ref="char:EOLhyphen"/>mentes, as seales vnto his promises.</p>
+            <pb facs="tcp:176687:21"/>
+            <p>
+               <hi>Quest. Which be they?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Sacrament of Baptisme, and of the Lords supper.</p>
+            <p>
+               <hi>Quest. What is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> It is an outwarde visible signe by the confirmation of the worde applied ther<g ref="char:EOLhyphen"/>to, representinge spirituall graces vnto vs, for the testifying of Gods goodnes towardes vs, and confirming our faith.</p>
+            <p>
+               <hi>Quest. What is Baptisme?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The Sacrament of regeneration or newe birth, and seale of our receyuinge into Gods house, the kingdom of Christ, to be one of the number of his, and to be brought vp among them.</p>
+            <p>
+               <hi>Quest. What inwarde grace do the was<g ref="char:EOLhyphen"/>shing with water represent vnto vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> It represent two things especiallie: One is, the washing away of our filthi<g ref="char:EOLhyphen"/>nes by the bloud of Christ, as it is writ<g ref="char:EOLhyphen"/>ten: That he might sanctifie his church, and cleanse it by the washinge of water
+<pb facs="tcp:176687:22"/> through the worde. Otherwise also it re<g ref="char:EOLhyphen"/>presenteth a drowning &amp; ouerwhelming: for euē as one that is ouerwhelmed with water, seemeth to be dead and drowned: but if he peere vp againe, he seemeth to haue escaped death: Euen so all that are baptised, doo vndergoe a certaine repre<g ref="char:EOLhyphen"/>sentation of death, not therby to die, but by escaping that death, to liue in farre better state, and a more excellent lyfe: so it is said, that our Fathers were bap<g ref="char:EOLhyphen"/>tised in the sea, because that going tho<g ref="char:EOLhyphen"/>rough it as through the valley of death, by that passage they escaped death. So was Christe saide to bee baptised by his death, and we are said to be baptised in<g ref="char:EOLhyphen"/>to the image of his death, whē we being wounded in conscience for sinne, doe dye vnto the same, and forsake it, that wee may liue a better life, euen to rightuous<g ref="char:EOLhyphen"/>nes, and escape the second death. Thus Baptisme representeth dying, and li<g ref="char:EOLhyphen"/>uing againe as a newe creature. So is it called the Sacramēt of regeneration.</p>
+            <p>
+               <hi>Quest. What doo the Sacrament of the Lords Supper signifie vnto vs?</hi>
+            </p>
+            <pb facs="tcp:176687:22"/>
+            <p>
+               <hi>An.</hi> Euen as by Baptisme wee are recey<g ref="char:EOLhyphen"/>ued into Gods house, to be nourished as his deare children: so the Lords Supper which we are often to receyue, represent vnto vs the foode wherewith our soules are nourished. Namelie the breade sig<g ref="char:EOLhyphen"/>nie the bodie of Christ the liuing Man<g ref="char:EOLhyphen"/>na, which giueth neuer to hunger more: And the wine doo signifie the bloude of Christ the water of life, whiche giueth neuer to thirst more. And as in our bo<g ref="char:EOLhyphen"/>dies we doo taste these elementes, so in our soules by faith wee doo feede on our Sauiour Christ.</p>
+            <p>
+               <hi>Qu. What certaine marke &amp; tokē haue we to examine our selues, whither wee haue the true faith or no, and whither we be in Christ, &amp; he in vs: or that wee haue but a bare opiniō of these things, and deceiue our selues as the most part of them do, which notwithstāding cal them selues Christians?</hi>
+            </p>
+            <p>
+               <hi>Anus.</hi> Our certaine marke and seale is the Spirite of adoption, whiche testi<g ref="char:EOLhyphen"/>fieth vnto our spirites, that we be his
+<pb facs="tcp:176687:23"/> children: and by the which we crie bould<g ref="char:EOLhyphen"/>ly, Abba Father. But if any man haue not the spirit of Christ, the same is not his.</p>
+            <p>
+               <hi>Quest Howe may wee examine whither wee haue this spirit or no?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> By the forcible working of the same in vs. Not onely as feeling some moti<g ref="char:EOLhyphen"/>ons of goodnes, which are by the spirite illuminating, and afterwarde by retur<g ref="char:EOLhyphen"/>ning to our olde nature, wee quenshe the spirit, and drowne those motions, so that our goodnes proue but as the morninge mist, and our light be but as a flashe of lightning to leade vs for a stepp or two. But the grace of the adopting spirit, gi<g ref="char:EOLhyphen"/>ueth light to see, and strength to runne on the race with courage: yea with vio<g ref="char:EOLhyphen"/>lence to drawe the kingdome of God vn<g ref="char:EOLhyphen"/>to vs. It is called fire, because it mini<g ref="char:EOLhyphen"/>streth heate, and taketh away coldnes of zeale and loue, and it will brust foorth in manifest appearance. And being the an<g ref="char:EOLhyphen"/>oynting oyle wherwith we are anointed, the smell therof will be sauoured of those
+<pb facs="tcp:176687:23"/> whō we drawe neere. The fruites there<g ref="char:EOLhyphen"/>of be loue, ioye, peace, long sufferinge, gentlenes, goodnes, fayth, meekenes, temperancie.</p>
+            <p>Finallie, if our nature be so withered, and grace so florishing, that wee hate sinne which wee loued before, and delight in the testimonies of the Lord which were ircksome to vs before: this is a token of the quickning spirit. Also if we obey the Lorde, not in the deadnes of the letter, but in the freenes of the spirit: not by compulsion or constreint of the lawe, or feare of hell: but for thankfulnes to the Lorde for his mercie, and deliuerance, for verie loue of righteousnes, thoughe there were no Deuil nor hel at al. These and such like graces, witnes vnto vs the the possession of the incorruptible seede of Gods spirit. And if we examine our selues duely, wee can not deceiue our selues.</p>
+            <p>
+               <hi>Quest. Are then these workes of him that is regenerate righteous &amp; good?</hi>
+            </p>
+            <pb facs="tcp:176687:24"/>
+            <p>
+               <hi>An.</hi> Their workes can not weigh in the balance of the Lordes examination, but shall be founde to light. If he shall mark what is done amisse, the most righteous can not stande. For the remnant of sinne whiche is not vtterlie slaine in vs tyll death, staineth our best workes with one euill affection or other. But whome the Lorde receyueth to grace, he accepteth their obedience, &amp; couereth their sinnes with the robe of righteousnes of his deare sonne.</p>
+            <p>
+               <hi>Quest. Are not all the graces, and euerie good gift proceeding from God, free<g ref="char:EOLhyphen"/>lie bestoweth vpon his people?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Yes, euen of free grace, without any thing of our part mouing thereto.</p>
+            <p>
+               <hi>Quest. Wherevnto then tendeth Prayer which is a chiefe exercise of a Christian fayth? And it is saide: Knocke, and it shall be opened vnto you: aske, and ye shall receyue.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> It is our bounde duetie to call vppon the Lorde instantlie, for it is a chiefe
+<pb facs="tcp:176687:24"/> part of his worshippe, howbeit he know<g ref="char:EOLhyphen"/>eth before we aske what wee haue neede of. He both giueth the thinge, and fra<g ref="char:EOLhyphen"/>meth the hart to call for the same, yea &amp; ministreth gracious words and zeale to our prayers. For his spirit helpeth our infirmities, and prayeth for vs with in<g ref="char:EOLhyphen"/>ward sighthings. He semeth some time to delaye vs: but it is to stirre vp our fer<g ref="char:EOLhyphen"/>uency. For he is purposed before to giue in due time. So our praier of it selfe pro<g ref="char:EOLhyphen"/>cure nothing at Gods hande: but he gi<g ref="char:EOLhyphen"/>ueth vs the grace to praye, thereby ma<g ref="char:EOLhyphen"/>king vs more fitt to receyue at his hande those things, which he do freely giue.</p>
+            <p>
+               <hi>Quest. Reherse the praier, which our Sa<g ref="char:EOLhyphen"/>uiour Christ taught his disciples.</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Our Father which art in heauen, &amp;c.</p>
+            <p>
+               <hi>Qu. What learne you by these words?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> That wee in confidence of the spirit call God Father, hauing faith to be his children in Christ Iesus by adoption, whereas wee were straungers from him before.</p>
+            <pb facs="tcp:176687:25"/>
+            <p>
+               <hi>Qu. Why is God saide to be in heauen, whom the heauen of heauens can not conteine?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Because wee thinke of no place so ho<g ref="char:EOLhyphen"/>norablie as of heauen. And there most glorie appeareth, that our dulle minde might the highlier conceiue of him, whō no place doeth holde, but the seat af his power is in all places.</p>
+            <p>
+               <hi>Qu. What aske wee of God in this first petition: Sanctified be thy name?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Wee desire that the name of God, which is his power, and goodnes, wise<g ref="char:EOLhyphen"/>dom, mercie and trueth, and whatsouer he is known by, should haue dew honour and reuerēce by vs &amp; others, and that all profaning of his name by vngodlines, may be farre away.</p>
+            <p>
+               <hi>Quest. What aske wee in the second: Let thy Kingdome come?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> We craue that the Lord would spee<g ref="char:EOLhyphen"/>delie increase the number of true belee<g ref="char:EOLhyphen"/>uers, &amp; faithful worshippers, which may
+<pb facs="tcp:176687:25"/> be receiued into the fellowship of Gods House, which is his Church and King<g ref="char:EOLhyphen"/>dom, so beyng graft into the bodie of his Sonne: &amp; that he would minister plenty of giftes and graces, and giue his worde plenteously for the welfare of his church, and spreading out the curtaines, and in<g ref="char:EOLhyphen"/>larging the bounds thereof.</p>
+            <p>
+               <hi>Quest. What craue wee of God in the third: Lett thy will be done in earthe, as it is in heauen?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> That as he is Lord and King to rule ouer all: so we and others may submitte our selues vnto his will, with renown<g ref="char:EOLhyphen"/>cing our owne, being readie also to exe<g ref="char:EOLhyphen"/>cute his will and pleasure, with like rea<g ref="char:EOLhyphen"/>dines, as his Angels in heauen doo ac<g ref="char:EOLhyphen"/>corde and are prest to fulfil the same.</p>
+            <p>
+               <hi>Qu. In the fourth petition what require we: Giue vs this day our dailie bread?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> We require at the hands of the Lord whatsoeuer is needful to the vse of our bodies. And so we require it, as acknow<g ref="char:EOLhyphen"/>ledging that we are fedde and sustained
+<pb facs="tcp:176687:26"/> day<g ref="char:EOLhyphen"/>lie by his gift, howsoeuer wee come by our sustenaunce. And wee are taught so to require it, as they which knowe they are to liue from hande to mouthe, of the Lords prouision, blessing them in their calling, without greedie coueting of su<g ref="char:EOLhyphen"/>perfluitie, or taking care what wee shall eate, or what wee shall drincke, or what clothes wee shall put on hereafter.</p>
+            <p>
+               <hi>Quest. What aske wee of God in the fift petition: And forgiue vs our trespasses as wee forgiue them that trespasse a<g ref="char:EOLhyphen"/>gainst vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> In this and in the next wee aske all grace needefull for our soules, namelie, Forgiuenes of sinne in this: and in the next, Grace and strength to perseuere, and to stande immoueable of temptatiō. For in the forgiuenes of our sinnes, con<g ref="char:EOLhyphen"/>sist our blessednes, which is made mani<g ref="char:EOLhyphen"/>fest when we perseuere vnto the ende. When we adde <hi>As we forgiue thē that trespasse agaisnt vs,</hi> it is a note to trie vs, whither wee be fitt to craue forgiue<g ref="char:EOLhyphen"/>nes
+<pb facs="tcp:176687:26"/> at gods hande, &amp; if we be single har<g ref="char:EOLhyphen"/>ted without hatred or desire of reuenge, but are mercifull, as our heauenlie Fa<g ref="char:EOLhyphen"/>ther is mercifull and good, causing the raine to fall and the sunne to shine on the iust and vniust.</p>
+            <p>
+               <hi>Quest. What require we of God in that which foloweth: And leade vs not in<g ref="char:EOLhyphen"/>to temptation: but deliuer vs frō euill: For thine is the kingdom, &amp;c?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> We desire that y<seg rend="sup">e</seg> Lord would not pu<g ref="char:EOLhyphen"/>nish our sinne with giuing vs ouer to sin more &amp; more, but would deliuer vs frō sinne and Satan, which are conteined vnder the name of Euil here spoken of. And wee require these things vnder the name of asscribing vnto him all rule, po<g ref="char:EOLhyphen"/>wer and glorie, whereby wee confirme our selues that he is able to do all things and will graunt all that is for his glorie.</p>
+            <p>
+               <hi>Question. Where do the Lorde nourishe and bring vp his people, vntill they be made a perfect people to be receyued to further glorie?</hi>
+            </p>
+            <pb facs="tcp:176687:27"/>
+            <p>
+               <hi>An.</hi> In the place which the Lorde doeth chuse to putt his name there: euen his Churche, his Sion where he voutsafeth to dwell, the Kingdome of his Sonne, whiche he do gouerne by the Scepter of his Worde a scepter of righteousnes.</p>
+            <p>Which Churche houldeth one Law and order vnder her Kinge, and therefore is called Catholike. And the members of the same, holde a happie fellowshippe as the members of one bodie, seruinge one to another by their giftes &amp; graces, and sustaininge one an others neede in mutuall charitie. And this is called the Communion of Sainctes. Vppon this Sion the Lorde makethe to fall the first raine and the later, euen the blessings of his good will. For there the Lorde appointed blessing, and Life for euer<g ref="char:EOLhyphen"/>more, which, those members of the Bo<g ref="char:EOLhyphen"/>die of Christ instantly seruing God daie and night, waite to come vnto: hopinge also for the Resurrection of the Bodie, which is sowne in corruption, that both the Soules and bodies of the Lords E<g ref="char:EOLhyphen"/>lect may partake glorie with Christ Ie<g ref="char:EOLhyphen"/>sus
+<pb facs="tcp:176687:27"/> for euermore, after that he hath sub<g ref="char:EOLhyphen"/>dued all thinges, and deliuered vp the Ringdome into his Fathers hande, vn<g ref="char:EOLhyphen"/>to whome God almightie, withe the Sonne and the holie Ghost, be all Glorie &amp; Praise for euermore.</p>
+            <closer>AMEN.</closer>
+         </div>
+         <div type="catechism">
+            <pb facs="tcp:176687:28"/>
+            <head>An other briefer forme of Catechisme, and as it were, the summe of that which went before.</head>
+            <p>
+               <hi>Question.</hi>
+            </p>
+            <p>
+               <hi>WHo created you, and all creatures?</hi>
+            </p>
+            <p>
+               <hi>Answere.</hi>
+            </p>
+            <p>GOD.</p>
+            <p>
+               <hi>Quest. What is the duetie of you, and all creatures vnto God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> To set forth his glorie.</p>
+            <p>
+               <hi>Quest. Howe is that done?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> By keeping his worde &amp; commaun<g ref="char:EOLhyphen"/>dement, whereby we declare that hee is our Soueraigne Lorde, and haue autho<g ref="char:EOLhyphen"/>ritie ouer vs to commaunde vs obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>
+               <hi>Quest. Howe doo the dumme creatures keepe Gods commaundement?</hi>
+            </p>
+            <pb facs="tcp:176687:28"/>
+            <p>
+               <hi>An.</hi> By continuing in that order &amp; state whereto the Lorde by his worde firste assigned them.</p>
+            <p>
+               <hi>Quest. Hath man done so from the be<g ref="char:EOLhyphen"/>ginning?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> No: For oure firste Parentes brake Gods commaundement, in eatinge the forbidden fruite.</p>
+            <p>
+               <hi>Quest. What befell of that?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> They became sinful, and haue left vn<g ref="char:EOLhyphen"/>to vs being braunches of the same roote, the inheritance of sinne, which wee call Originall sinne, or sinne which wee haue by nature and kinde.</p>
+            <p>
+               <hi>Quest. What euill come thereof?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> This originall sinn is a verie plague infecting all our wayes, so that they bee all transgressions of Gods lawe.</p>
+            <p>
+               <hi>Quest. What doeth the Lawe of God require of vs?</hi>
+            </p>
+            <pb facs="tcp:176687:29"/>
+            <p>
+               <hi>An.</hi> That wee should loue the Lorde with all our soule and strength: and our neigh<g ref="char:EOLhyphen"/>bour as our selfe.</p>
+            <p>
+               <hi>Quest. Are wee not able to performe this?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> No, in no wise.</p>
+            <p>
+               <hi>Quest. Why was it then commaunded of God?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Because it is the rule of perfect righ<g ref="char:EOLhyphen"/>teousnes, agreeing vnto y<seg rend="sup">t</seg> nature of god, able in it selfe to be obserued and to giue life: but of vs vnable, because of our sin<g ref="char:EOLhyphen"/>full inabilitie.</p>
+            <p>
+               <hi>Quest. What profite receyue wee then by it?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> This, that we being conuicte of oure sinne more manifestlie by y<seg rend="sup">e</seg> Law, wher<g ref="char:EOLhyphen"/>in as in a glasse we beholde the same, we might be ashamed of our selues, &amp; feare Gods wrath, and so bee constreined to seeke for remedie of our miserie other<g ref="char:EOLhyphen"/>where, namelie in Christ.</p>
+            <pb facs="tcp:176687:29"/>
+            <p>
+               <hi>Quest. You saye that in all our dooinges we transgresse Gods lawe, what cal you that transgression?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Sinne.</p>
+            <p>
+               <hi>Quest. What is the desert of sinne?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Gods curse, and fierce wrath to the vtter spoyling of soule &amp; bodie by euer<g ref="char:EOLhyphen"/>lasting death, whose iustice therevppon calleth for the execution of this punishe<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>Quest. What followeth thereon?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Then they whose eyes God doo open to see their miserie, beholde themselues lost and confounded, yea euen plunged with waues of woe vnto death. Thē they repent and lothe their former sinne, whi<g ref="char:EOLhyphen"/>che haue brought vpon them this cōdem<g ref="char:EOLhyphen"/>nation, and hūblie craue pardon, appea<g ref="char:EOLhyphen"/>ling from iustice to mercie. Then doo Christe Iesus take them by the hande, giue them ease of their burthen, &amp; quic<g ref="char:EOLhyphen"/>ken them by his comforting Spirite, re<g ref="char:EOLhyphen"/>storing them from death to lyfe, so are
+<pb facs="tcp:176687:30"/> they then made newe borne children.</p>
+            <p>
+               <hi>Quest. By what meanes can Christe res<g ref="char:EOLhyphen"/>kue vs from his Fathers iustice?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Because he offered a sacrifice of his owne bodie and bloud to his Father, to make the attonement for vs. And he be<g ref="char:EOLhyphen"/>ing perfect man, suffered death: and be<g ref="char:EOLhyphen"/>ing perfect God, susteyned him selfe to breake the bands of death.</p>
+            <p>
+               <hi>Quest. And howe do we attaine to euer<g ref="char:EOLhyphen"/>lasting lyfe, hauing escaped death?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Christ also hath fulfilled perfect righ<g ref="char:EOLhyphen"/>teousnes, which he doeth impute to vs: and of the fulnes of the spirit, whiche he haue receyued, he sanctifieth vs, and so present vs to his Father, crauinge that we may be partakers of his glorie with him.</p>
+            <p>
+               <hi>Quest. Howe do we receyue, and applie to vs Christ Iesus, and all this which he haue done for vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> By Faith.</p>
+            <pb facs="tcp:176687:30"/>
+            <p>
+               <hi>Quest. What is faith?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> A spirituall gift giuen of God, euen the hande of our soule, which wee reache out, to drawe vnto vs all good thinges which are offered and promised.</p>
+            <p>
+               <hi>Quest. How is this fayth wrought in vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> By the inward meanes of the spirit, and the outward meanes of hearing the worde taught.</p>
+            <p>
+               <hi>Quest. What outward meanes hath the Lorde giuen, for the strengthening of our faith, that we may with more full assurance receyue his promises?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The two Sacramentes, Of Baptis<g ref="char:EOLhyphen"/>me, and the Lords Supper, whiche wee call seales vnto the handewriting of the Lords promise of our saluation.</p>
+            <p>
+               <hi>Quest. What is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> It is an outward visible signe, by the confirmation of the word applied there<g ref="char:EOLhyphen"/>to, representing spirituall graces vnto vs for the testifying of Gods goodnesse
+<pb facs="tcp:176687:31"/> towards vs, &amp; the confirming of our faith.</p>
+            <p>
+               <hi>Quest. What is Baptisme?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The seale of our receyuing into Gods house, being before y<seg rend="sup">e</seg> heires of hell. And this is done by a great alteration in vs, namelie, dying to sinne, &amp; liuing againe vnto righteousnes, whiche is our newe birth. Which grace this Sacrament do represent, both in that it signifie a spiri<g ref="char:EOLhyphen"/>tuall washing from our sinne by Christe his bloud: And also a drowning &amp; passing through death, that wee might escape a more grieuous death, &amp; liue for euer.</p>
+            <p>
+               <hi>Quest. What doeth the Lordes Supper represente vnto vs?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Our continuall nourishing after wee be receyued into Gods familie with the liuing breade, &amp; the liuing water, the bo<g ref="char:EOLhyphen"/>die &amp; bloud of Christ, whereon we feede by faith, &amp; grow togither into one w<seg rend="sup">t</seg> him</p>
+            <p>
+               <hi>Qu. What seale and marke can we finde in our selues, that we haue this faith, &amp; be in Christ? for al can say they beleue.</hi>
+            </p>
+            <pb facs="tcp:176687:31"/>
+            <p>
+               <hi>An.</hi> The spirit which Christ Iesus do giue as a pledge of our adoption, is a certain seale. Which spirite if it dwell in vs, the fruit thereof as the heat of a fornace will come foorth. Loue to the Lorde and his worde will appeare, and charitie to our neighbour. Generallie a full alteration we must espie in our selues, that wee are dead to sinne wherein we liued in times past, and now we haue pleasure to exer<g ref="char:EOLhyphen"/>cise our selues in meditating the lawe of God, in Praier, Thankes giuing, and all the exercises of Christianitie, wholy leading a newe life, and houlding the a<g ref="char:EOLhyphen"/>greement of godlie felloshippe with the rest of the members, whereof Christ is the heade. And alwaies hauing our con<g ref="char:EOLhyphen"/>uersation in heauenlie things, that our light may shine, &amp; our life may expresse the praise and glorie of him, &amp; our thank<g ref="char:EOLhyphen"/>fulnes towards him, who haue redemed vs to the hope of the Resur<g ref="char:EOLhyphen"/>rection to Eternall Life.</p>
+         </div>
+         <div type="catechism">
+            <pb facs="tcp:176687:32"/>
+            <head>An other shorter forme for weake memories.</head>
+            <p>
+               <hi>Question.</hi>
+            </p>
+            <p>
+               <hi>WHat chiefe pointes and groundes do you knowe, concerning your Reli<g ref="char:EOLhyphen"/>gion?</hi>
+            </p>
+            <p>
+               <hi>Answere.</hi>
+            </p>
+            <p>Foure pointes especiallie.</p>
+            <p>
+               <hi>Quest. Which be those?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> First, my sinne.</p>
+            <p>Secondlie, my miserie whiche my sinne bringeth.</p>
+            <p>Thirdlie, my tedemption &amp; deliuerance.</p>
+            <p>Fourthlie, the seale and token of my deli<g ref="char:EOLhyphen"/>uerance.</p>
+            <p>
+               <hi>Quest. What say you concerninge your sinne?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> I acknowledge, that I was borne &amp; conceyued in sinne, and therein haue con<g ref="char:EOLunhyphen"/>tinued all my life, transgressinge Gods commaundements in all my thoughtes,</p>
+            <pb facs="tcp:176687:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
